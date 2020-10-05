@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f6d6f9e-0dc9-43af-a9b8-72ab0f86dc0b" name="Default Changelist" comment="Lizard Spock v0.1">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lizard-spock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/ElementCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/ElementInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/Lizard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/Paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/Rock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/Scissors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elements/Spock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/Elements/Lizard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/Elements/Paper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/Elements/Rock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/Elements/Scissors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/Elements/Spock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/RPSLS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/LoseResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/Result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/TieResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/WinResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iSPeHQTomoTq8wMSdxvNwZoXiz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rock-paper-scissors-lizard-spock" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pictures/Elements" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f6d6f9e-0dc9-43af-a9b8-72ab0f86dc0b" name="Default Changelist" comment="" />
+      <created>1601898113203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601898113203</updated>
+      <workItem from="1601898114244" duration="24687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lizard Spock v0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lizard Spock v0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2700" y="236" width="412" height="652" key="#com.intellij.ide.util.MemberChooser" timestamp="1601914417241">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2700" y="236" width="412" height="652" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1601914417241" />
+    <state x="2644" y="337" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601909662991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2644" y="337" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1601909662991" />
+    <state x="2614" y="464" width="399" height="156" key="NewPhpFileDialog" timestamp="1601899532208">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2614" y="464" width="399" height="156" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1601899532208" />
+  </component>
+</project>

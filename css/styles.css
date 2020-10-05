@@ -1,0 +1,50 @@
+button[type=submit] {
+    font-size: 0;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+
+    width: 120px;
+    height: 120px;
+    border: 0;
+    background-color: #fff;
+    cursor: pointer;
+    outline: 0;
+}
+
+.title {
+    height: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.result {
+    height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.parent {
+    height: 120px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.child {
+    height: 120px;
+    display: inline-block;
+    width: 45%;
+}
+
+.vs {
+    height: 120px;
+    display: inline-block;
+    width: 10%;
+}
+
+.elements {
+    text-align: center;
+    margin-bottom: 50px;
+}
